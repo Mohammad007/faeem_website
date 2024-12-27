@@ -1,0 +1,25 @@
+@import url('https://fonts.cdnfonts.com/css/trajan-pro');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-trajan {
+  font-family: 'Trajan Pro', serif;
+}
+
+.bg-primary {
+  background-color: #c9ab81;
+}
+
+.text-primary {
+  color: #c9ab81;
+}
+
+.bg-secondary {
+  background-color: #262626;
+}
+
+.text-secondary {
+  color: #262626;
+}
